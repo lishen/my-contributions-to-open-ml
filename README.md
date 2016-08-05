@@ -9,3 +9,6 @@ PR #41 (under review): [Add sklearn regressors, optimize hyperparameter search s
 
 ### Hyperas: Hyperopt based structure and hyperparameter learning for neural networks in Keras
 PR #30 (accepted): [Fix rseed argument error on newer version of hyperopt](https://github.com/maxpumperla/hyperas/pull/30)
+
+### Keras: Deep learning library for Python
+This is by a summer student - [Yun Yan](https://github.com/Puriney), PR #3356 (under review): [Schedule momentum during training](https://github.com/fchollet/keras/pull/3356)
