@@ -7,7 +7,7 @@ PR #262 (accepted): [Fix module not callable error](https://github.com/hyperopt/
 ### Hyperopt-Sklearn: Hyperopt based model selection for ML algorithms in Sklearn
 PR #41 (accepted): [Add sklearn regressors, optimize hyperparameter search space and enhance cross-validation](https://github.com/hyperopt/hyperopt-sklearn/pull/41)
 
-PR #44 (under review): [Add a "warm start" feature for hyperopt_estimator](https://github.com/hyperopt/hyperopt-sklearn/pull/44)
+PR #44 (accepted): [Add a "warm start" feature for hyperopt_estimator](https://github.com/hyperopt/hyperopt-sklearn/pull/44)
 
 ### Hyperas: Hyperopt based structure and hyperparameter learning for neural networks in Keras
 PR #30 (accepted): [Fix rseed argument error on newer version of hyperopt](https://github.com/maxpumperla/hyperas/pull/30)
